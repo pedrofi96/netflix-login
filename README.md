@@ -1,6 +1,3 @@
-Aqui está um modelo completo de `README.md` para o seu projeto Cypress de automação de login na Netflix:
-
-```markdown
 # Cypress - Automação de Login Netflix
 
 Este projeto contém um teste automatizado utilizando Cypress para realizar o login no site da Netflix.
